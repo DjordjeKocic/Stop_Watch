@@ -1,0 +1,12 @@
+.userList {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid gray;
+}
+
+.button__Retrun {
+    color: white;
+    background-color: dodgerblue;
+    display: block;
+    margin-top: 5px;
+}

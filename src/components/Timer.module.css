@@ -1,0 +1,18 @@
+
+.timer__h2 {
+    font-weight: lighter;
+}
+
+.start {
+    background-color: rgb(55, 141, 55);
+    color: white;
+}
+
+.start:hover {
+    background-color: rgba(55, 141, 55, 0.808);
+}
+
+.stop {
+    background-color: rgb(197, 35, 35);
+    color: white;
+}
